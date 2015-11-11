@@ -1,0 +1,24 @@
+/* the styles for the navigation bar */
+#tabs {
+	clear: left;
+	margin: 0;
+	padding: 0;
+}
+#tabs ul {
+	list-style: none;
+	padding: 1em 0;
+    background-color: silver;
+    border: 2px solid darkgrey;
+}
+#tabs li {
+	display: inline;
+    padding: 1em 0;
+}
+#tabs a { 
+    padding: 1em 2em;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border-right: 2px solid white;
+}
+
